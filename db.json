@@ -44,41 +44,6 @@
       "nombre": "Jugo de Limón",
       "precio": 100,
       "id": 9
-    },
-    {
-      "nombre": "Jugo de limón",
-      "precio": 100,
-      "id": 10
-    },
-    {
-      "nombre": "1",
-      "precio": 2,
-      "id": 11
-    },
-    {
-      "nombre": "1",
-      "precio": 2,
-      "id": 12
-    },
-    {
-      "nombre": "1",
-      "precio": 20,
-      "id": 13
-    },
-    {
-      "nombre": "1",
-      "precio": 2,
-      "id": 14
-    },
-    {
-      "nombre": "1",
-      "precio": 2,
-      "id": 15
-    },
-    {
-      "nombre": "Jugo de Piña",
-      "precio": 100,
-      "id": 16
     }
   ]
 }
