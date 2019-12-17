@@ -2,7 +2,7 @@
   "productos": [
     {
       "nombre": "Rib Eye",
-      "precio": 400,
+      "precio": "500",
       "id": 7
     },
     {
