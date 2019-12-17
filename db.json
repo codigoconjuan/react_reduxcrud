@@ -9,6 +9,11 @@
       "nombre": "Jugo de Limón",
       "precio": 100,
       "id": 9
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 10
     }
   ]
 }

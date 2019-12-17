@@ -14,7 +14,7 @@ const Productos = () => {
         // Consultar la api
         const cargarProductos = () => dispatch( obtenerProductosAction() );
         cargarProductos();
-
+        // eslint-disable-next-line
     }, []);
 
     // obtener el state
